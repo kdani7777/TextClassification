@@ -1,0 +1,2 @@
+# TextClassification
+Classifies IMDB movie reviews from dataset as positive or negative using tensorflow, keras and numpy
